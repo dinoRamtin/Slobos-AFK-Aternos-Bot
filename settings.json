@@ -1,12 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "negga(alex)",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "
+	"ip":"klangtrauma-ZUfh.aternos.me",
+	"port": "50210",
+	"name": "negga(alex)",
     "port": 27586,
     "version": "",
     "try-creative": false
